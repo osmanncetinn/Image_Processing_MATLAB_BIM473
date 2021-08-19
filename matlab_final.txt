@@ -1,0 +1,20 @@
+*edge detection nedir
+*binary image nedir?
+--> siyah beyaz fotograflar binary image dýr.
+*kýyaslamalý veri seti = banch marking dataset
+*corner detection = koþe noktasý tespiti
+*face detection = insan yüzü mü köpek yüzü mü gibi.
+*face recognition = hilal gerçekten hilal mi yoksa ikizi mi gibi.
+*face emational detection = insan yüzünün duygu durumunu ölçer.
+*real time - response time
+*surf matching algorith = benzer fotolarý eþleþtirir.
+*dilation(silme) - erosion = fotolarda gereksiz noklarý yok etmek için dilation ve bazý detaylarý yuvarlamak için erozyona ugratabiliriz.
+*gray to rgb image processing 
+*gri fotodan renkli foto elde edilir mi? (renkler tahmin edilip referans alarak foto reklendirilir, olmayan detaylarý çýkarabilmek imskanýz)
+*health informatic
+*image segmentation = 
+motion estemation - hareket tahmini/tespiti
+
+
+
+
